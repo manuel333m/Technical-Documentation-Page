@@ -40,7 +40,9 @@ padding-bottom: 15px;
 }
   
 header {
-
+margin: 25px;
+padding 25px;
+box-radius: 2%;
 }
 
 .nav-link {
